@@ -59,19 +59,8 @@ If you'd like to contribute to this project, please follow these steps:
 
 5. Create a pull request to merge your changes into the main repository.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as per the terms of this license.
-
-## Acknowledgments
-
-- Mention any external libraries, tutorials, or resources that you found helpful while working on this project.
-
 ## Contact
 
-If you have any questions or need further assistance, please feel free to contact me at [your-email@example.com].
+If you have any questions or need further assistance, please feel free to contact me at mernaabdallah89@gmail.com.
 
 Happy coding!
-```
-
-Make sure to replace the placeholders with your specific information, such as the database connection string, your email address, and any other relevant details. Additionally, provide more specific information in the "Usage" and "Acknowledgments" sections based on your project's unique features and dependencies.
